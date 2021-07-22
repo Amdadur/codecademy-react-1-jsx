@@ -1,3 +1,7 @@
+//import
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 //JSX looks like html - will be compiled as javascript
 const h1 = <h1>Hello world</h1>;
 
